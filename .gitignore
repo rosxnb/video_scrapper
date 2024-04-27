@@ -1,0 +1,11 @@
+# files
+
+.DS_Store
+
+
+
+# folders
+
+.venv
+venv
+.idea
